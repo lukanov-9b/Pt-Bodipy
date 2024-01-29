@@ -8,7 +8,7 @@ from rdkit.Chem import AllChem, MolFromSmiles
 class GetSolventParams(BaseEstimator, TransformerMixin):
     
     def __init__(self) -> None:
-        SOLVENT_PARAMS = pd.read_excel('model_files/solvent_params.xlsx')
+        SOLVENT_PARAMS = pd.read_csv('model_files/solvent_params.csv')
         SOLVENT_PARAMS.index = SOLVENT_PARAMS['smiles']
         SOLVENT_PARAMS = SOLVENT_PARAMS.drop(['smiles', 'solvent'], axis=1)
         self.params = SOLVENT_PARAMS      
