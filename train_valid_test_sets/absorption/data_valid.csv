@@ -1,0 +1,4 @@
+smiles,solvent,absorption
+COC1=[O+][Pt+2]([NH3+])([NH3+])OC(OCCC#Cc2ccc(C3=C4C(C)=CC(/C=C/c5ccc(N(C)C)cc5)=[N+]4[B-](F)(F)n4c(C)cc(C)c43)cc2)=C1.O=[N+]([O-])[O-],CO,604.0
+COC1=[O+][Pt+2]([NH3+])([NH3+])OC(OCCC#Cc2ccc(C3=C4C(C)=CC(/C=C/c5ccc(N(C)C)cc5)=[N+]4[B-](F)(F)n4c(C)cc(C)c43)cc2)=C1.O=[N+]([O-])[O-],CC#N,603.0
+COC1=[O+][Pt+2]([NH3+])([NH3+])OC(OCCC#Cc2ccc(C3=C4C(C)=CC(/C=C/c5ccc(N(C)C)cc5)=[N+]4[B-](F)(F)n4c(C)cc(C)c43)cc2)=C1.O=[N+]([O-])[O-],CS(C)=O,616.0

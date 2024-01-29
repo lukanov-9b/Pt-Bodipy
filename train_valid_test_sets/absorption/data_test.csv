@@ -1,0 +1,9 @@
+smiles,solvent,absorption
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,Cc1ccccc1,473.0
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,Cc1ccccc1,552.0
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,ClCCl,471.0
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,ClCCl,547.0
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,C1CCOC1,472.0
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,C1CCOC1,548.0
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,CC#N,468.0
+CCC1=C(C)C2=C(C#C[Pt+2](C3=C4C=CC=[N+]4[B-](F)(F)n4cccc43)([P](CC)(CC)CC)[P](CC)(CC)CC)c3c(C)c(CC)c(C)n3[B-](F)(F)[N+]2=C1C,CC#N,543.0
